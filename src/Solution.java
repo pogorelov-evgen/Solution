@@ -21,7 +21,6 @@ class Solution  {
         map.put(5,"den3");
         map.put(51,"den4");
         map.put(187,"den");
-        map.put(2,"den5");
         map.put(38,"den");
         map.put(89,"de6n");
         map.put(1578,"7den");
